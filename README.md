@@ -4,6 +4,6 @@ Slur Jar is **NOT** open source, this repo is only for the Privacy Policy and Te
 
 view Terms of Service [here](https://github.com/ales-js/Slur-Jar/blob/main/terms-of-service.md).
 
-view Privacy Policy [here](https://github.com/ales-js/Slur-Jar/blob/main/terms-of-service.md).
+view Privacy Policy [here](https://github.com/ales-js/Slur-Jar/blob/main/privacy-policy.md).
 
 view Keywords [here](https://github.com/ales-js/Slur-Jar/blob/main/keywords.md).
