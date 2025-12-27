@@ -3,13 +3,13 @@
 ## Data Collection
 Slur Jar ("the bot") may collect and store the following data:
 - User IDs
-- Usernames
-- Message IDs / Links that contain certain keywords. Note that the message content itself does not get logged, and only the last messages ID gets logged.
+- Usernames (to make removing data manually in the database easier by searching the username instead of the user ID)
+- Message IDs / Links that contain certain keywords. Note that the message content itself does not get logged, and only the last message ID gets logged.
 - Amount of times a user has said a specific keyword
 
 View Keywords [Here](https://github.com/ales-js/Slur-Jar/blob/main/keywords.md)
 
-Saved data is stored securely and is not sold or shared to third parties.
+Saved data is stored securely and is not sold or shared with third parties.
 
 Users may request data deletion by doing one of the following:
 - contacting @ales.js on Discord (May take up to a week)
@@ -17,4 +17,4 @@ Users may request data deletion by doing one of the following:
 
 Note that it is not guaranteed that the bot is always online, if that is the case, feel free to contact @ales.js or wait until the bot is back online.
 
-Last Updated: Twenty Seventh December of 2025
+Last Updated: 27 December 2025
