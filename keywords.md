@@ -6,4 +6,4 @@ This list contains every keyword that might cause a message ID to be stored. Not
 - Word3
 ```
 
-Last Updated: Twenty Seventh of December 2025
+Last Updated: 27 December 2025
