@@ -7,7 +7,7 @@ Slur Jar ("the bot") may collect and store the following data:
 - Message IDs / Links that contain certain keywords. Note that the message content itself does not get logged, and only the last messages ID gets logged.
 - Amount of times a user has said a specific keyword
 
-View Keywords [Here]([https://changethisplsthisisnotavalidlinkthisisstillwipplschangethis.com](https://github.com/ales-js/Slur-Jar/blob/main/keywords))
+View Keywords [Here](https://github.com/ales-js/Slur-Jar/blob/main/keywords.md)
 
 Saved data is stored securely and is not sold or shared to third parties.
 
