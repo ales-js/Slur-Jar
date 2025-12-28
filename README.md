@@ -2,7 +2,7 @@
 
 Slur Jar is **not** open source, this repo is only for the Privacy Policy and Terms of Service for Discord's App Verification.
 
-Slur Jar is a moderation related utility bot, that saves message ID's of messages that contain bad words in a database. a user's "Slur Count" is saved on a database, accessible in every server.
+Slur Jar is a moderation related utility bot, that saves message ID's of messages that contain bad words in a database. a user's "Slur Count" is saved on a database, accessible in every server by using the `/checkslurs` slash command.
 
 view more information about how your data is stored in our [Privacy Policy](https://github.com/ales-js/Slur-Jar/blob/main/privacy-policy.md).
 
