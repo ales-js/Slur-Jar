@@ -2,8 +2,13 @@
 
 Slur Jar is **NOT** open source, this repo is only for the Privacy Policy and Terms of Service for Discord's App Verification.
 
+
+## Links
+
+Install Slur Jar [here](https://discord.com/oauth2/authorize?client_id=1452681071677276222).
+
 view Terms of Service [here](https://github.com/ales-js/Slur-Jar/blob/main/terms-of-service.md).
 
 view Privacy Policy [here](https://github.com/ales-js/Slur-Jar/blob/main/privacy-policy.md).
 
-view Keywords [here](https://github.com/ales-js/Slur-Jar/blob/main/keywords.md).
+view keywords [here](https://github.com/ales-js/Slur-Jar/blob/main/keywords.md).
