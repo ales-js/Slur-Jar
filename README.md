@@ -3,7 +3,7 @@
 Slur Jar is **NOT** open source, this repo is only for the Privacy Policy and Terms of Service for Discord's App Verification.
 
 
-## Links
+### Links
 
 Install Slur Jar [here](https://discord.com/oauth2/authorize?client_id=1452681071677276222).
 
